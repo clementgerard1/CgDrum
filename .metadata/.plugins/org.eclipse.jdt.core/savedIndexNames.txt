@@ -1,2 +1,0 @@
-INDEX VERSION 1.129+/Users/clement/Documents/Max 7/Packages/cg/cg.drum/cgDrum/cgDrum/.metadata/.plugins/org.eclipse.jdt.core
-1175494123.index
